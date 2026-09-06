@@ -1,0 +1,20 @@
+From: security@example.com
+To: user@example.com
+Subject: Account Document
+Date: Fri, 5 Sep 2026 09:00:00 +0530
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+
+Please find the requested document attached.
+
+--BOUNDARY
+Content-Type: text/plain; name="document.txt"
+Content-Disposition: attachment; filename="document.txt"
+Content-Transfer-Encoding: base64
+
+SGVsbG8gZnJvbSBTSUgyNjEwNiB0ZXN0IGF0dGFjaG1lbnQu
+
+--BOUNDARY--

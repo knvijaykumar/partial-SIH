@@ -1,0 +1,22 @@
+From: Security Team <security@example.com>
+To: user@example.com
+Reply-To: support@suspicious-example.test
+Return-Path: <bounce@suspicious-example.test>
+Subject: URGENT: Verify Your Account
+Date: Fri, 4 Sep 2026 12:00:00 +0530
+Message-ID: <test-12345@example.com>
+Received: from mail.example.com (203.0.113.25) by mail.example.com;
+Authentication-Results: mail.example.com;
+    spf=fail;
+    dkim=fail;
+    dmarc=fail
+Content-Type: text/plain; charset="UTF-8"
+
+URGENT!
+
+Your account requires immediate verification.
+
+Please verify your account:
+https://secure-login.suspicious-example.test/verify
+
+Failure to verify your account may result in account suspension.
