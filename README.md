@@ -1,8 +1,8 @@
-Got it, boss 👍 You want a **short README just for your friend to understand the project quickly** — tech stack, APIs, AI models, and current work.
+not completed fully
 
 # SIH26106 — Email Threat Detection & Forensic Intelligence
 
-## 🎯 What are we building?
+##  What are we building?
 
 An **AI-powered cybersecurity platform** that analyzes suspicious emails and finds:
 
@@ -173,10 +173,10 @@ backend/.env
 
 `.env` is excluded from GitHub using `.gitignore`.
 
-## 📦 Repository
+## ## 📊 Project Progress
 
-**GitHub:** `knvijaykumar/partial-SIH`
+### Overall Completion: ~48%
 
-**Problem Statement:** SIH26106
+- **Completed:** ~48%
+- **Remaining:** ~52%
 
-**Domain:** Blockchain & Cybersecurity
